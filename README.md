@@ -1,8 +1,5 @@
 # Advanced Django Cheat Sheet
 
-Be aware it's not an exhaustive list.
-If you have ideas, correction or recommendation do not hesitate.
-
 --------------------
 
 ## Sections
